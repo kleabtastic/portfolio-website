@@ -80,6 +80,11 @@ a:active {
     color: (#489c79);
 }
 
+.icon {
+    color: black;
+    width: 15px;
+}
+
 button {
     border: none;
     display: inline-block;

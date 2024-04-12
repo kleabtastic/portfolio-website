@@ -74,6 +74,11 @@ a:active {
     color: var(--color-five);
 }
 
+.icon {
+    color: black;
+    width: 15px;
+}
+
 button,
 .button {
     border: none;

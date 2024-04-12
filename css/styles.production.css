@@ -11,13 +11,13 @@
 }
 
 body {
-    background-color: rgb(240, 240, 242);
+    background-color: #b2ac88;
 
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 250;
     font-style: normal;
-    color: rgb(51, 114, 165);
+    color: #253237;
 
 }
 
@@ -58,7 +58,7 @@ body {
 }
 
 a {
-    color: (#357b70);
+    color: #d38396;
 }
 
 .navigation-list__item--active {
@@ -67,7 +67,7 @@ a {
 
 a:visited {
     /* visited link */
-    color: (#05676e);
+    color: #907d73;
 }
 
 a:hover a:focus {
@@ -77,11 +77,11 @@ a:hover a:focus {
 
 a:active {
     /* selected link */
-    color: (#489c79);
+    color: #582c4d;
 }
 
 .icon {
-    color: black;
+    color: #253237;
     width: 30px;
 }
 
@@ -89,7 +89,7 @@ button {
     border: none;
     display: inline-block;
     font-family: inherit;
-    background-color: (#357b70);
+    background-color: #d38396;
     color: black;
     text-decoration: none;
     font-size: 16px;
@@ -104,7 +104,7 @@ button {
     border: none;
     display: inline-block;
     font-family: inherit;
-    background-color: (#357b70);
+    background-color: #d38396;
     color: black;
     text-decoration: none;
     font-size: 16px;
@@ -140,11 +140,11 @@ button:focus {
 }
 
 button:active {
-    background-color: (#357b70);
+    background-color: #d38396;
 }
 
 .button:active {
-    background-color: (#357b70);
+    background-color: #d38396;
 }
 
 button:focus,

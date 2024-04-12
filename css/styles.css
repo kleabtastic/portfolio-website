@@ -2,11 +2,11 @@
     box-sizing: border-box;
 }
 :root {
-    --primary-color: rgb(240, 240, 242);
-    --secondary-color: rgb(51, 114, 165);
-    --color-three: (#357b70);
-    --color-four: (#05676e);
-    --color-five: (#489c79);
+    --primary-color: #b2ac88;
+    --secondary-color: #253237;
+    --color-three: #d38396;
+    --color-four: #907d73;
+    --color-five: #582c4d;
     --color-six: (aliceblue);
 }
 
@@ -75,7 +75,7 @@ a:active {
 }
 
 .icon {
-    color: black;
+    color: var(--secondary-color);
     width: 30px;
 }
 

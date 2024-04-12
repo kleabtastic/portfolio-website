@@ -20,7 +20,10 @@ body {
     color: var(--secondary-color);
 
 }
-
+.web {
+    background-color: var(--secondary-color);
+    color: var(--color-three);
+}
 
 
 /* This is a CSS comment */

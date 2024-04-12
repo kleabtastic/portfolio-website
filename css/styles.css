@@ -77,6 +77,7 @@ a:active {
 .icon {
     color: var(--secondary-color);
     width: 30px;
+    text-decoration: none;
 }
 
 button,
@@ -226,6 +227,7 @@ h1 {
 }
 .cloud-front {
     animation: 30s cloud-move infinite alternate linear;
+    color: whitesmoke;
 }
 
 @keyframes cloud-move-reverse {

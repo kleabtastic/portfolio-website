@@ -52,7 +52,7 @@ body {
 }
 
 a {
-    color: var(--color-three);
+    color: var(--secondary-color);
 }
 
 .navigation-list__item--active {

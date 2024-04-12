@@ -2,11 +2,11 @@
     box-sizing: border-box;
 }
 :root {
-    --primary-color: #b2ac88;
-    --secondary-color: #253237;
-    --color-three: #d38396;
-    --color-four: #907d73;
-    --color-five: #582c4d;
+    --primary-color: #e1efe6;
+    --secondary-color: #160c28;
+    --color-three: #efcb68;
+    --color-four: #aeb7b3;
+    --color-five: #000411;
     --color-six: (aliceblue);
 }
 
